@@ -62,3 +62,26 @@ li{
     padding: 8px;
     margin-bottom: 7px;
 }
+
+/* Large phones */
+@media (max-width: 600px) {
+    .container {
+        width: 90%;
+    }
+    .header {
+        font-size: 20px;
+    }
+}
+
+/* Small phones */
+@media (max-width: 480px) {
+    .container {
+        width: 95%;
+        border-radius: 10px;
+    }
+
+    li {
+        font-size: 14px;
+        padding: 6px;
+    }
+}
