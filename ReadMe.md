@@ -65,7 +65,7 @@ Right-click on `index.html` and choose **"Open with Live Server"**
 
 **Ankit Kumar**  
 💼 Frontend Developer  
-📚 Currently learning Full Stack Development  
+📚 Currently learning Data Analytics 
 🎓 Roorkee Institute Of Technology (Roorkee) 
 
 ---
