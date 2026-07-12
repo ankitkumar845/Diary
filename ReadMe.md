@@ -1,6 +1,6 @@
-# 📝 My Digital Diary
+# 📝 To Do List
 
-A simple and stylish My Digital Diary built with HTML, CSS, and JavaScript.  
+A simple and stylish To Do List built with HTML, CSS, and JavaScript.  
 Users can add and delete tasks with smooth interactivity and a clean UI.
 
 ## 🔥 Features
